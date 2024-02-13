@@ -14,33 +14,27 @@ const introdata = {
     description: "Backend 를 깊이 있게 공부하고 있습니다. 특정 분야에 국한되지 않고, Frontend 에도 관심을 가지는 등 관심사를 넓혀가고 있습니다. ",
 };
 
-const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
-};
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
-    // creat an emailjs.com account 
-    // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_EMAIL: "hijunho0811@gmail.com",
+    YOUR_FONE: "010-2909-6850",
+    description: "Thank you for considering reaching out. Please feel free to contact me with any inquiries or opportunities. I am committed to responding promptly and look forward to connecting with you.",
+    // emailjs tutorial : https://www.emailjs.com/docs/examples/reactjs/
+    YOUR_SERVICE_ID: "service_525xgre",
+    YOUR_TEMPLATE_ID: "template_glht4en",
+    YOUR_USER_ID: "_yMCyQv8omzs9WbiM",
 };
 
 const socialprofils = {
     github: "https://github.com/hijunho0811",
-    facebook: "https://facebook.com",
+    naver: "https://blog.naver.com/snow6337",
     linkedin: "https://www.linkedin.com/in/junho-gong-267757236/",
-    twitter: "https://twitter.com",
+    instagram: "https://www.instagram.com/ksoftboi/",
 };
 export {
     logotext,
     meta,
     introdata,
-    dataabout,
     contactConfig,
     socialprofils,
 };
