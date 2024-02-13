@@ -53,6 +53,7 @@ section {
     .intro_sec .text,
     .intro_sec .h_bg-image {
         width: 100%;
+        margin-top: 55px;
     }
 }
 
@@ -197,6 +198,7 @@ section {
         height: 600px;
         min-height: 75vh;
         margin-bottom: 30px;
+        /* margin-top: 55px; */
     }
     .intro_sec .h_bg-image .block {
         top: unset;
