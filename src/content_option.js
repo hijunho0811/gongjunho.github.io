@@ -14,6 +14,21 @@ const introdata = {
     description: "Backend 를 깊이 있게 공부하고 있습니다. 특정 분야에 국한되지 않고, Frontend 에도 관심을 가지는 등 관심사를 넓혀가고 있습니다. ",
 };
 
+const dataabout = {
+    title : "A bit about myself",
+    aboutme : " "
+}
+
+const edutimeline = [
+    {
+        jobtitle: "전북대학교 컴퓨터공학부",
+        date : "2019.3 ~",
+    },
+    {
+        jobtitle: "전북대학교 멋쟁이사자처럼 8기",
+        date : "2020.3 ~ 2020.11",
+    },
+];
 
 const contactConfig = {
     YOUR_EMAIL: "hijunho0811@gmail.com",
@@ -37,4 +52,6 @@ export {
     introdata,
     contactConfig,
     socialprofils,
+    dataabout,
+    edutimeline,
 };
